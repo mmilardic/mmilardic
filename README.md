@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mmilardic a curious software engineer.
-- 👀 I’m interested in working on various Java/Typescript web or Kotlin/Swift (Android/iOS) mobile projects. 
+- 👀 I’m interested in working on various Java/Typescript projects. 
 - 🌱 I’m currently learning different Typescript related technologies.
 - 📫 Reach out to me at marko.milardic99@gmail.com
 <!-- - 💞️ I’m looking to collaborate on ... -->
